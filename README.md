@@ -26,7 +26,8 @@ print(x)
 ```
 ## Output:
 
-[-34.  13.]
+![Uploading Screenshot 2026-02-05 091124.png…]()
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
